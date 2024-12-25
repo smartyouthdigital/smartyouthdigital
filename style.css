@@ -88,17 +88,7 @@ ul li:hover ul.dropdown{
 display: block;
 }
 
- /*.marker{
-    position: absolute;
-    bottom: 0;
-    height: 100%;
-    width: 90px;
-    border-bottom: 5px solid rgb(140, 0, 255);
-    background: linear-gradient(0deg ,rgba(99, 1, 179, 0.556), transparent);
-    transition: 0.5s;
-    pointer-events: none;
-    filter: drop-shadow(0 5px 25px rgb(140, 0, 255));
-}*/
+
 
 ul li a.active{
     color: white;
