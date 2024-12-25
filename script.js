@@ -60,15 +60,3 @@ Email.send({
 );
 }
 
-/*function sendEmail(){
-Email.send({
-    Host : "smtp.gmail.com",
-    Username : "rahelbirihanu07@gmail.com",
-    Password : "@rich21@",
-    To : 'rahelbirihanu07@gmail.com',
-    From : document.getElementById("email").value,
-    Subject : "This is the subject",
-    Body : "And this is the body"
-}).then(
-  message => alert(message)
-);}*/
