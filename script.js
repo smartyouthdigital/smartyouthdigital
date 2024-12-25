@@ -48,9 +48,9 @@ circle.forEach(function(progress){
 function sendEmail(){
 Email.send({
     Host : "smtp.gmail.com",
-    Username:"rahelbirihanu07@gmail.com",
+    Username:"smartyouthdigital@gmail.com",
     Password:"",
-    To:'rahelbirihanu07@gmail.com',
+    To:'smartyouthdigital@gmail.com',
     From:document.getElementById("email").value,
     Subject:"Contact form",
     Body:"And this is the body",
